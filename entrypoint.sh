@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello from publish docker github!"
+echo "Hello Juralux!"
