@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello from publish dockergi!"
+echo "Hello from publish docker github!"
